@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rajputmr.aternos.me
+    "ip": "Rajputmr.aternos.me,
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
